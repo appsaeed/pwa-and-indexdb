@@ -1,0 +1,20 @@
+{
+  "name": "Catcher Portal",
+  "short_name": "Catcher Portal",
+  "start_url": ".",
+  "display": "minimal-ui",
+  "background_color": "#fff",
+  "description": "Catcher Portal - Catcher Portal - Deer Forest Nature Park",
+  "icons": [
+    {
+      "src": "pwa/images/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "pwa/images/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}

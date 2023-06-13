@@ -1,0 +1,22 @@
+Please flow these step to setup the pwa app
+
+
+first: replace all files such as:
+ web/pwa/manifest.manifest.webmanifest
+ web/pwa/images/ all images
+ web/pwa/index.js
+ web/sw.js
+
+required: add this tag into head tag 
+<link rel="manifest" href="pwa/manifest.webmanifest" />
+
+
+required: add this script before end of body tag
+<script src="pwa/index.js"></script>
+
+
+
+****optional*** not important
+change for anything in pwa on pwa/index.js file
+find out: config global varialbe and change them
+
