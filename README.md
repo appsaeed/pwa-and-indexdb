@@ -1,4 +1,4 @@
-# Javascript IndexDB - browser features (similar localStorage)
+# Javascript IndexDB and PWA Web app
 
 
 Please flow these step to setup the pwa app
